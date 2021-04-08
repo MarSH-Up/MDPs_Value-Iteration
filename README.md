@@ -4,7 +4,7 @@ The content of this repository served as an assignment project requested for the
 
 <strong>This application of the algorithm and information was for an only educational purpose</strong>
 
-<h3>Description:</h3> Implement the the value iteration algorithm to solve a discrete MDP.
+<h3>Description:</h3> Implement the the value iteration algorithm to solve a discrete Markov Decision Processes.
 
 Professor:
 - PhD <a href="https://ccc.inaoep.mx/~esucar/">Enrique Sucar</a>.
