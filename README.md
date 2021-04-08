@@ -23,7 +23,7 @@ The following algorithm is based on the documentation provided by the professor 
 <div style="text-align:center"><img src="Images/Algorithm_pseudocode.PNG" /></div>
 
 <em>Example</em>
-- ![example](Images/example.PNG)
+- ![MDP Example](Images/Example_bot.PNG)
 - ![Console example](Images/Console_example.PNG)
 
 #References
