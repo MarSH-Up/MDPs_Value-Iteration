@@ -19,8 +19,7 @@ Student Involved:
 3. Call the functions marked in the documentation
 
 The following algorithm is based on the documentation provided by the professor but in the references. The value iteration algorithm consists in iteratively estimate the value for each state, s, based on Bellman's equation. The next image shows the pseudocode used to create this project.
-<p align="center">
-- ![Algorithm](Images/Algorithm_pseudocode.PNG)
+<div style="text-align:center"><img src="Images/Algorithm_pseudocode.png" /></div
 
 <em>Example</em>
 - ![example](Images/example.PNG)
