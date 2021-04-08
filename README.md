@@ -25,4 +25,4 @@ The following algorithm is based on the documentation provided by the professor 
 - ![Console example](Images/Console_example.PNG)
 
 #References
--  Sucar, L. E. (2020). Probabilistic graphical models. Advances in Computer Vision and Pattern Recognition.London: Springer London. doi, 10(978), 2
+-  Sucar, L. E. (2020). Probabilistic graphical models. Advances in Computer Vision and Pattern Recognition.London: Springer London. doi, 10(978), Chapter 11.
