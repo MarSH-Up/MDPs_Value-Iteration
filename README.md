@@ -29,6 +29,9 @@ The following algorithms are based on the documentation provided by the professo
 <div style="text-align:center"><img src="Images/Algorithm_pseudocode1.PNG" /></div>
 
 <em>Examples</em>
+The class need to be call as the figure indicates:
+- ![Object Creation](Images/Example_class.PNG)
+
 We used two examples to confirm the algorithm's functionality,  called "The robot path", from the book, and "The bear travel" from an online blog called Towards Data Science (Link in the references)
 
 - ![The robot path](Images/Example_bot.PNG)
