@@ -40,7 +40,7 @@ We used two examples to confirm the algorithm's functionality,  called "The robo
     - We pass the parameters as a matrixes, as you can see in the next figure: 
     - - ![Parameters Descriptions](Images/Example_bot_code.PNG)
     - Then running the fuctions you would see the following results:
-    - -![Bot Iterations](Images/Example_bot_iteractions.PNG)
+    - -![Bot Iterations](Example_bot_iteraction.PNG)
     - -![Policy](Images/Example_bot_Policy.PNG)
 
 #References
