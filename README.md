@@ -37,7 +37,11 @@ We used two examples to confirm the algorithm's functionality,  called "The robo
 - Let's start with the robot path example, consider figure 1 as a grid to complete, our code needs some parameters defined in the description, so the next image shows what we mean.
     - First, consider that the enumeration of the states follows:
     - - ![States](Images/Example_bot_states.PNG)
-
+    - We pass the parameters as a matrixes, as you can see in the next figure: 
+    - - ![Parameters Descriptions](Images/Example_bot_code.PNG)
+    - Then running the fuctions you would see the following results:
+    - -![States](Images/Example_bot_iteration.PNG)
+    - -![States](Images/Example_bot_Policy.PNG)
 
 #References
 -  Sucar, L. E. (2020). Probabilistic graphical models. Advances in Computer Vision and Pattern Recognition.London: Springer London. doi, 10(978), Chapter 11.
