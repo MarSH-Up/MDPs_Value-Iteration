@@ -49,8 +49,10 @@ We used two examples to confirm the algorithm's functionality,  called "The robo
 
     - ![States](Images/Example_bear.PNG)
     - ![Parameters Descriptions](Images/Example_bear_code.PNG)
-    - ![Policy_Iteration](Images/Example_bear_policy.PNG)
     - ![Policy_Iteration](Images/Example_bear_solved.PNG)
+    - ![Policy_Iteration](Images/Example_bear_policy.PNG)
+
+
 #References
 -  Sucar, L. E. (2020). Probabilistic graphical models. Advances in Computer Vision and Pattern Recognition.London: Springer London. doi, 10(978), Chapter 11.
 - Mohammad Ashraf. (2018). Reinforcement Learning Demystified: Solving MDPs with Dynamic Programming. April 2021, de Towards Data Science Sitio web: https://towardsdatascience.com/reinforcement-learning-demystified-solving-mdps-with-dynamic-programming-b52c8093c919
