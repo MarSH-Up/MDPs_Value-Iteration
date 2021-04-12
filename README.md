@@ -4,7 +4,7 @@ The content of this repository served as an assignment project requested for the
 
 <strong>This application of the algorithm and information was for an only educational purpose</strong>
 
-<h3>Description:</h3> Implement the the value iteration algorithm to solve a discrete Markov Decision Processes.
+<h3>Description:</h3> Implement the value iteration algorithm to solve a discrete Markov Decision Processes.
 
 Professor:
 - PhD <a href="https://ccc.inaoep.mx/~esucar/">Enrique Sucar</a>.
@@ -18,9 +18,15 @@ Student Involved:
 2. Verify that the C++ version is at least C++ 14
 3. Call the functions marked in the documentation
 
-The following algorithm is based on the documentation provided by the professor but in the references. The value iteration algorithm consists in iteratively estimate the value for each state, s, based on Bellman's equation. The next image shows the pseudocode used to create this project.
+The following algorithms are based on the documentation provided by the professor. The book used as a reference is at the end of this file. 
+
+1. The value iteration algorithm consists of iteratively estimate the value for each state, s, based on Bellman's equation. The next image shows the pseudocode used to create this project.
 
 <div style="text-align:center"><img src="Images/Algorithm_pseudocode.PNG" /></div>
+
+2. The Policy iteration algorithm consists of iteratively estimate the value for each state, s, based on Bellman's equation, with the main difference we store the Policy in each iteration, it would allow us to compare an iteration (t) with a (t-1), then if the Policy is the same we finish the process, this gives you a computational speed advantage at storage cost. The image 2 shows the pseudocode used to create this project.
+
+<div style="text-align:center"><img src="Images/Algorithm_pseudocode1.PNG" /></div>
 
 <em>Example</em>
 - ![MDP Example](Images/Example_bot.PNG)
