@@ -43,7 +43,7 @@ We used two examples to confirm the algorithm's functionality,  called "The robo
     - ![Policy_Iteration](Images/Example_bot_iteraction.PNG)
     - ![Policy](Images/Example_bot_Policy.PNG)
     - So then, you would follow the next path
-    - ![Policy_path](Images/Example_bot_solved.PNG)
+    - ![Policy](Images/Example_bot_solved.png)
 
 #References
 -  Sucar, L. E. (2020). Probabilistic graphical models. Advances in Computer Vision and Pattern Recognition.London: Springer London. doi, 10(978), Chapter 11.
