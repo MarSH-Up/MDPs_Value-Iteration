@@ -28,9 +28,11 @@ The following algorithms are based on the documentation provided by the professo
 
 <div style="text-align:center"><img src="Images/Algorithm_pseudocode1.PNG" /></div>
 
-<em>Example</em>
-- ![MDP Example](Images/Example_bot.PNG)
-- ![Console example](Images/Console_example.PNG)
+<em>Examples</em>
+We used two examples to confirm the algorithms functionality, those would be called as a "The robot path" from the book, and "The bear travel" from the online blog Towards Data Science (Link in the references)
+
+- ![The robot path](Images/Example_bot.PNG)
+- ![The bear travel](Images/Example_bear.PNG)
 
 #References
 -  Sucar, L. E. (2020). Probabilistic graphical models. Advances in Computer Vision and Pattern Recognition.London: Springer London. doi, 10(978), Chapter 11.
