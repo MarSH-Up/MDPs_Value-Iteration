@@ -29,10 +29,16 @@ The following algorithms are based on the documentation provided by the professo
 <div style="text-align:center"><img src="Images/Algorithm_pseudocode1.PNG" /></div>
 
 <em>Examples</em>
-We used two examples to confirm the algorithms functionality, those would be called as a "The robot path" from the book, and "The bear travel" from the online blog Towards Data Science (Link in the references)
+We used two examples to confirm the algorithm's functionality,  called "The robot path", from the book, and "The bear travel" from an online blog called Towards Data Science (Link in the references)
 
 - ![The robot path](Images/Example_bot.PNG)
 - ![The bear travel](Images/Example_bear.PNG)
 
+- Let's start with the robot path example, consider figure 1 as a grid to complete, our code needs some parameters defined in the description, so the next image shows what we mean.
+    - First, consider that the enumeration of the states follows:
+    - - ![States](Images/Example_bot_states.PNG)
+
+
 #References
 -  Sucar, L. E. (2020). Probabilistic graphical models. Advances in Computer Vision and Pattern Recognition.London: Springer London. doi, 10(978), Chapter 11.
+- Mohammad Ashraf. (2018). Reinforcement Learning Demystified: Solving MDPs with Dynamic Programming. April 2021, de Towards Data Science Sitio web: https://towardsdatascience.com/reinforcement-learning-demystified-solving-mdps-with-dynamic-programming-b52c8093c919
