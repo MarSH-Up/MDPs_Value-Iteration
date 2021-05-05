@@ -59,3 +59,17 @@ We used two examples to confirm the algorithm's functionality,  called "The robo
 #References
 -  Sucar, L. E. (2020). Probabilistic graphical models. Advances in Computer Vision and Pattern Recognition.London: Springer London. doi, 10(978), Chapter 11.
 - Mohammad Ashraf. (2018). Reinforcement Learning Demystified: Solving MDPs with Dynamic Programming. April 2021, de Towards Data Science Sitio web: https://towardsdatascience.com/reinforcement-learning-demystified-solving-mdps-with-dynamic-programming-b52c8093c919
+
+| LPC Extraction_Matlab (Hyung-Suk Kim, Stanford)
+|
+| _ _ Cleanying _ Python
+|
+| _ _ _ _ Train _ Python
+|
+| _ _ _ _ _ _ | Predict
+|             | _ _ _ Neuronal Nerworks Models
+|
+| _ _ _ _ _ _ _ _ | Jupiter Notebooks
+|                 |
+|                 | _ _ _ _ 2021_BAM_KaprePloting _ Python
+
